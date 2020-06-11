@@ -11,6 +11,8 @@
 
 ; More will be added later
 
+:*:abbr::abbreviation
+
 :*:m8::mate
 :*:M8::Mate
 :*:gr8::great
@@ -19,14 +21,19 @@
 :*:GH::GitHub
 :*:btw::by the way
 :*:otw::on the way
-:*:iirc::if I read correctly
-:*:Iirc::If I read correctly
+:*:iirc::if I remember correctly
+:*:Iirc::If I remember correctly
 :*:idk::i don't know
 :*:Idk::I don't know
 :*:ik::i know
 :*:Ik::I know
-:*:cba::can't be asked
-:*:Cba::Can't be asked
+:*:np::no problem
+:*:Np::No problem
+
+; Not having * requires the user to press space
+::ty::thank you
+::Ty::Thank you
+
 :*:brt::be right there
 :*:Brt::Be right there
 :*:brb::be right back
@@ -39,6 +46,8 @@
 :*:Aka::Also known as
 :*:imo::in my opinion
 :*:Imo::In my opinion
+:*:imho::in my honest opinion
+:*:Imho::In my honest opinion
 :*:irl::in real life
 :*:Irl::In real life
 :*:lmk::let me know
@@ -55,6 +64,8 @@
 :*:Ppv::Pay per view
 :*:dnd::do not disturb
 :*:Dnd::Do not disturb
+:*:d.i.y::do it yourself
+:*:D.I.Y::Do it yourself
 :*:eta::estimated time of arrival
 :*:Eta::Estimated time of arrival
 :*:fyi::for your information
