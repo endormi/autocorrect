@@ -34,6 +34,10 @@
 ::ty::thank you
 ::Ty::Thank you
 
+::ttyl::talk to you later
+::Ttyl::Talk to you later
+::tgif::thank god it's friday
+::Tgif::Thank god it's friday
 :*:brt::be right there
 :*:Brt::Be right there
 :*:brb::be right back

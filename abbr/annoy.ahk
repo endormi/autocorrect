@@ -43,6 +43,8 @@
 :*:c#::I code in rust
 ::c::I code in rust
 
+:*:wtf::Where's the fun
+:*:ffs::Good times
 :*:BRB::Backups Regularly Breaking
 :*:ASAP::As Slow As Possible
 :*:HTTP::Head To This Page
