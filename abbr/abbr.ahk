@@ -15,6 +15,8 @@
 
 :*:m8::mate
 :*:M8::Mate
+:*:b4::before
+:*:B4::Before
 :*:gr8::great
 :*:Gr8::Great
 :*:gh::github
@@ -33,9 +35,11 @@
 ; Not having * requires the user to press space
 ::ty::thank you
 ::Ty::Thank you
+::acc::account
+::Acc::Account
 
-::ttyl::talk to you later
-::Ttyl::Talk to you later
+:*:ttyl::talk to you later
+:*:Ttyl::Talk to you later
 :*:tgif::thank god it's friday
 :*:Tgif::Thank god it's friday
 :*:brt::be right there
@@ -76,6 +80,7 @@
 :*:Fyi::For your information
 :*:tbd::to be determined
 :*:Tbd::To be determined
+::tho::though
 :*:b2b::business to business
 :*:B2b::Business to business
 :*:f2f::face to face
