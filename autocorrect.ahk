@@ -106,7 +106,7 @@
 ::teh::the
 :*:truely::truly
 :*:jealus::jealous
-:*:jewelry::jewelry
+:*:jewlry::jewelry
 :*:knowlege::knowledge
 :*:vilage::village
 :*:wich::which
