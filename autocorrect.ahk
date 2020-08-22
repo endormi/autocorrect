@@ -116,6 +116,7 @@
 :*:liek::like
 :*:libary::library
 :*:paralel::parallel
+:*:intetion::intention
 :*:intepreter::interpreter
 :*:interpeter::interpreter
 :*:interpetation::interpretation
